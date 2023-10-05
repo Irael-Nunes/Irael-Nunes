@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**Irael-Nunes/Irael-Nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá! Eu sou o Irael Nunes 👋
+Full-Stack: Desenvolvedor de Software Full Stack | React | Node.js | JavaScript | Java | HTML | CSS
+- 🔭 Hoje sou um desenvolvedor de software apaixonado por tecnologia. Estou tendo experiência em várias linguagens de programação, incluindo Java, JavaScript. Atualmente, estou me concentrando em desenvolvimento em back-end e front-end.
+- 😄 Pronouns: ele/dele
+### Tecnologias que conheço:
+- JavaScript
+- Java
+- HTML
+- CSS
+- Node.js
+- React
